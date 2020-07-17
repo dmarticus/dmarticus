@@ -1,6 +1,6 @@
 ### What up, y'all 👋
 
-I'm a big fan of programming languages, well-typed domain models, and deep learning.  These days I'm really into functional programming in Scala, Rust, Kotlin, and Haskell, and I spend a lot of time contributing to the FP ecosystem at [47 Degrees](https://www.47deg.com/).  I love the idea of open-source software democratizing the landscape of what we can build on the internet and beyond, and I'm stoked to be working on it full-time.  Outside of coding I'm really into music, languages, sports, and playing outside.   
+I'm a big fan of programming languages, well-typed domain models, and deep learning.  These days I'm really into functional programming in Scala, Rust, Kotlin, and Haskell, and I spend a lot of time contributing to the FP ecosystem at [47 Degrees](https://47degrees.github.io/org/).  I love the idea of open-source software democratizing the landscape of what we can build on the internet and beyond, and I'm stoked to be working on it full-time.  Outside of coding I'm really into music, languages, sports, and playing outside.   
 
 If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at my Github username @gmail.com, or just hit me up on [Twitter](https://twitter.com/dmarticus/).
 
