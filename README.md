@@ -1,8 +1,8 @@
 ### What up, y'all 👋
 
-I'm a big fan of programming languages, well-typed domain models, and deep learning.  These days I'm into functional programming in Scala, Rust, Kotlin, and Haskell, and I spend a lot of time contributing to the FP ecosystem at [47 Degrees](https://47degrees.github.io/org/).  I think open-source software democratizes the landscape of what we can build on the internet and beyond, and I'm stoked to be working on it full-time.  Outside of coding I'm into music, languages, recreational sports, and playing outside.
+I'm a big fan of programming languages, well-typed domain models, and deep learning.  These days I'm into functional programming in Scala, Rust, Kotlin, and Haskell, and I spend a lot of time contributing to the FP ecosystem at [47 Degrees](https://47degrees.github.io/org/).  I think open-source software democratizes the landscape of what we can build on the internet and beyond, and I'm stoked to be working on it full-time.  Before that I worked at @qualtrics for 5 years, where I worked on observability infrastructure, test tooling, and high-scale (35k req/s) distributed systems.  Outside of coding I'm into music, languages, recreational sports, cooking, and playing outside.
 
-If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at my `$myGithubUsername@gmail.com`, or just hit me up on [Twitter](https://twitter.com/dmarticus/).
+If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at my `$myGithubUsername@gmail.com`, or hit me up on [Twitter](https://twitter.com/dmarticus/).  I also stream myself coding on [Twitch](https://www.twitch.tv/dmarticus), and I write about tech stuff on [my blog](https://dylanamartin.com/writing.html).  
 
 Peace.
 <!--
