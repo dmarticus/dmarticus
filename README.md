@@ -1,3 +1,5 @@
+![visitors](https://page-views.glitch.me/badge?page_id=dmarticus.dmarticus)
+
 ### What up, y'all 👋
 
 I'm a big fan of programming languages, well-typed domain models, and data science.  I enjoy programming in Haskell, Scala, TypeScript, Rust, Python and Kotlin; and I currently work at [Mercury](https://mercury.com/), using Haskell, React, and TypeScript to build the next generation of digital banking.  Before Mercury, I spent a bunch of time contributing to the FP Scala ecosystem during my brief stint at [47 Degrees](https://47degrees.github.io/org/) (I'm still a maintainer of the [higherkindness](https://github.com/higherkindness) libraries).  Before 47 Degrees, I worked at [Qualtrics](https://www.qualtrics.com/qualtrics-life/why-qualtrics-dylan-martin-software-engineer-seattle-wa/) for 5 years, where I worked on observability infrastructure, test tooling, and internet-scale distributed systems.  Outside of coding I'm into playing music, learning languages, recreational sports, skiing, hiking, climbing, and cooking.
