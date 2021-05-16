@@ -6,7 +6,7 @@ If you want to get in touch with me to talk about programming, work on open-sour
 
 Peace.
 
-![visitors](https://page-views.glitch.me/badge?page_id=dmarticus.dmarticus)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dmarticus.dmarticus)
 <!--
 **dmarticus/dmarticus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
