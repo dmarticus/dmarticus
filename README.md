@@ -1,6 +1,6 @@
 ### What up, y'all.  I'm Dylan 👋
 
-I'm a big fan of programming languages, well-typed domain models, and data science.  I'm a polyglot programmer who's written production code in a variety of languages, but I prefer functional programming with static types (Haskell, Scala, Typescript, a bit of Rust) for production use (although I still love Python for doing experiments and data science).  
+I'm a big fan of programming languages, well-typed domain models, concurrency primitives, and data science.  I'm a polyglot programmer who's written production code in a variety of languages, but I prefer functional programming with static types (Haskell, Scala, Typescript, a bit of Rust) for production use (although I still love Python for doing experiments and data science).  
 
 I'm currently exploring!  I'm working on some fun personal projects, messing around in new programing languages, and generally learning more about the current the tech landscape. 
 
