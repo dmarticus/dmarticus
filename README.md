@@ -5,9 +5,9 @@ I'm a big fan of programming languages, well-typed domain models, and data scien
 I'm currently exploring!  I'm working on some fun personal projects, messing around in new programing languages, and generally learning more about the current the tech landscape. 
 
 So far in my career, I've been:
-* An early hire at [Mercury](https://mercury.com/), where I worked on a ton of things but mostly payments
-* A software consultant and open-source maintaner at [47 Degrees](https://www.47deg.com/), where I mostly wrote Scala as was deployed to fix distributed systems for customers
-* A tech lead and senior IC at [Qualtrics](https://www.qualtrics.com/qualtrics-life/why-qualtrics-dylan-martin-software-engineer-seattle-wa/), where I worked on a variety of projects: observability infrastructure, test tooling, and web-scale distributed systems.  
+* An early hire at [Mercury](https://mercury.com/), where I worked on a ton of things that come with working at a startup, but I mostly owned international payments
+* A software consultant and open-source maintaner at [47 Degrees](https://www.47deg.com/), where I mostly wrote Scala and got hired by clients to fix their distributed systems and write good code
+* A tech lead and senior IC at [Qualtrics](https://www.qualtrics.com/qualtrics-life/why-qualtrics-dylan-martin-software-engineer-seattle-wa/), where I worked on a variety of projects relating to observability infrasture, test tools, and web-scale distributed systems.  
 
 Outside of coding I'm into playing music, fashion, design, learning languages, recreational sports, skiing, hiking, climbing, and cooking.
 
