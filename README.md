@@ -2,7 +2,7 @@
 
 I'm a big fan of programming languages, well-typed domain models, concurrency primitives, and data science.  I'm a polyglot programmer who's written production code in a variety of languages, but I prefer functional programming with static types (Haskell, Scala, Typescript, a bit of Rust) for production use (although I still love Python for doing experiments, deep learning, and data science).  
 
-I'm currently a principal engineer at [BRINC](https://brincdrones.com/), where I'm building the web app and real-time drone data platform from scratch.  It's a blast. 
+I'm currently a principal engineer at [BRINC](https://brincdrones.com/), where I'm building our web app and real-time data platform from scratch.  It's a blast. 
 
 So far in my career, I've been:
 * An early hire at [Mercury](https://mercury.com/), where I wore many hats but mostly owned international payments
