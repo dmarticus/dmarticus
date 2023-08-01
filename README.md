@@ -1,17 +1,17 @@
 ### What up, y'all.  I'm Dylan 👋
 
-I'm a big fan of programming languages, well-typed domain models, concurrency primitives, and data science.  I'm a polyglot programmer who's written production code in a variety of languages, but I prefer functional programming with static types (Haskell, Scala, Typescript, a bit of Rust) for production use (although I still love Python for doing experiments and data science).  
+I'm a big fan of programming languages, well-typed domain models, concurrency primitives, and data science.  I'm a polyglot programmer who's written production code in a variety of languages, but I prefer functional programming with static types (Haskell, Scala, Typescript, a bit of Rust) for production use (although I still love Python for doing experiments, deep learning, and data science).  
 
-I'm currently exploring!  I'm working on some fun personal projects, messing around in new programing languages, and generally learning more about the current the tech landscape. 
+I'm currently a principal engineer at [BRINC](https://brincdrones.com/), where I'm building the web app and real-time drone data platform from scratch.  It's a blast. 
 
 So far in my career, I've been:
-* An early hire at [Mercury](https://mercury.com/), where I worked on a ton of things that come with working at a startup, but I mostly owned international payments
-* A software consultant and open-source maintaner at [47 Degrees](https://www.47deg.com/), where I mostly wrote Scala and got hired by clients to fix their distributed systems and write good code
-* A tech lead and senior IC at [Qualtrics](https://www.qualtrics.com/qualtrics-life/why-qualtrics-dylan-martin-software-engineer-seattle-wa/), where I worked on a variety of projects relating to observability infrasture, test tools, and web-scale distributed systems.  
+* An early hire at [Mercury](https://mercury.com/), where I wore many hats but mostly owned international payments
+* A software consultant and open-sourcerer at [47 Degrees](https://www.47deg.com/), where I mostly wrote Scala and got hired by clients to fix their distributed systems and write good code
+* A tech lead and senior IC at [Qualtrics](https://www.qualtrics.com/qualtrics-life/why-qualtrics-dylan-martin-software-engineer-seattle-wa/), where I worked on a variety of projects relating to observability infrasture, test tools, and web-scale distributed systems.
 
-Outside of coding I'm into playing music, fashion, design, learning languages, recreational sports, skiing, hiking, climbing, and cooking.
+Outside of coding I'm into playing music, fashion, design, learning languages, recreational sports, lifting, skiing, hiking, climbing, and cooking.
 
-If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at my `$myGithubUsername@gmail.com`, or hit me up on [Twitter](https://twitter.com/dmarticus/).  I also (very occasionally) stream myself coding on [Twitch](https://www.twitch.tv/dmarticus); and I much more actively maintain a personal website where [I write](https://dylanamartin.com/blog) and [curate](https://dylanamartin.com/reading) both technical and non-technical content.
+If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at my `$myGithubUsername@gmail.com`, or hit me up on [Twitter](https://twitter.com/dmarticus/).  I also (very occasionally) stream myself coding on [Twitch](https://www.twitch.tv/dmarticus); and I much more actively maintain a personal website where [I write](https://dylanamartin.com/blog) and [used to curate](https://dylanamartin.com/reading) both technical and non-technical content.
 
 Peace.
 
