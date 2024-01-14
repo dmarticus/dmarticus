@@ -5,6 +5,7 @@ I'm a big fan of programming languages, well-typed domain models, concurrency pr
 I'm currently a principal engineer at [BRINC](https://brincdrones.com/), where I'm building our web app and real-time data platform from scratch.  It's a blast. 
 
 So far in my career, I've been:
+* A founding engineer at [Cercle](https://www.cercle.ai/), where I worked on knowledge graphs for fertility data
 * An early hire at [Mercury](https://mercury.com/), where I wore many hats but mostly owned international payments
 * A software consultant and open-sourcerer at [47 Degrees](https://www.47deg.com/), where I mostly wrote Scala and got hired by clients to fix their distributed systems and write good code
 * A tech lead and senior IC at [Qualtrics](https://www.qualtrics.com/qualtrics-life/why-qualtrics-dylan-martin-software-engineer-seattle-wa/), where I worked on a variety of projects relating to observability infrasture, test tools, and web-scale distributed systems.
