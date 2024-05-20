@@ -1,10 +1,11 @@
 ### What up, y'all.  I'm Dylan 👋
 
-I'm a big fan of programming languages, well-typed domain models, concurrency primitives, and data science.  I'm a polyglot programmer who's written production code in a variety of languages, but I prefer functional programming with static types (Haskell, Scala, Typescript, a bit of Rust) for production use (although I still love Python for doing experiments, deep learning, and data science).  
+I'm a big fan of programming languages, well-typed domain models, concurrency primitives, and data science. I love working on building foundational systems and software products at early-stage tech companies.
 
-I'm currently a principal engineer at [BRINC](https://brincdrones.com/), where I'm building our web app and real-time data platform from scratch.  It's a blast. 
+I'm currently a full-stack engineer at [PostHog](https://posthog.com/), where I'm working on building a suite of products to equip every developer in the world with the tools they need to build successful products.
 
 So far in my career, I've been:
+* A principal engineer at [BRINC](https://brincdrones.com/), where I founded the web app and cloud services engineering team and built the first version of [LiveOps](
 * A founding engineer at [Cercle](https://www.cercle.ai/), where I worked on knowledge graphs for fertility data
 * An early employee at [Mercury](https://mercury.com/), where I wore many hats but mostly owned international payments
 * A software consultant and open-sourcerer at [47 Degrees](https://www.47deg.com/), where I mostly wrote Scala and got hired by clients to fix their distributed systems and write good code
