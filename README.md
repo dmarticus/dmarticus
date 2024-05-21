@@ -13,7 +13,7 @@ So far in my career, I've been:
 
 Outside of coding I'm into playing music, fashion, design, learning languages, recreational sports, lifting, skiing, hiking, climbing, and cooking.
 
-If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at my `$myGithubUsername@gmail.com`, or hit me up on [Twitter](https://twitter.com/dmarticus/).  I also (very occasionally) stream myself coding on [Twitch](https://www.twitch.tv/dmarticus); and I much more actively maintain a personal website where [I write](https://dylanamartin.com/blog) and [used to curate](https://dylanamartin.com/reading) both technical and non-technical content.
+If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at `$myGithubUsername@gmail.com`.  I also (very occasionally) stream myself coding on [Twitch](https://www.twitch.tv/dmarticus); and I much more actively maintain a personal website where [I write](https://dylanamartin.com/blog) and [used to curate](https://dylanamartin.com/reading) both technical and non-technical content.
 
 Peace.
 
