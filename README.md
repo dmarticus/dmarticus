@@ -1,6 +1,6 @@
 ### What up, y'all.  I'm Dylan 👋
 
-I'm a big fan of programming languages, well-typed domain models, concurrency primitives, and data science. I love working on building foundational systems and software products at early-stage tech companies.
+I'm a big fan of programming languages, well-typed domain models, concurrency primitives, automated software testing, and data science. I love working on building foundational systems and software products at early-stage tech companies.
 
 I'm currently a full-stack engineer at [PostHog](https://posthog.com/), where I'm working on building a suite of products to equip every developer in the world with the tools they need to build successful products.
 
