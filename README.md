@@ -2,7 +2,7 @@
 
 I'm a big fan of programming languages, well-typed domain models, concurrency primitives, automated software testing, and data science. I love working on building foundational systems and software products at early-stage tech companies.
 
-I'm currently a full-stack engineer at [PostHog](https://posthog.com/), where I'm working on building a suite of products to equip every developer in the world with the tools they need to build successful products.
+I'm currently a full-stack engineer at [PostHog](https://posthog.com/), where I'm working on building a suite of products to equip every developer in the world with the tools they need to build successful products themselves.
 
 So far in my career, I've been:
 * A principal engineer at [BRINC](https://brincdrones.com/), where I founded the web app and cloud services engineering team and built the first version of [LiveOps](https://brincdrones.com/liveops/)
