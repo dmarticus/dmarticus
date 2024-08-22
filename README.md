@@ -11,7 +11,7 @@ So far in my career, I've been:
 * A software consultant and open-sourcerer at [47 Degrees](https://www.47deg.com/), where I wrote Haskell and Scala and was hired fix distributed systems and champion good code
 * A tech lead and senior IC at [Qualtrics](https://www.qualtrics.com/qualtrics-life/why-qualtrics-dylan-martin-software-engineer-seattle-wa/), where I worked on a variety of projects relating to observability infrasture, test tools, and web-scale distributed systems.
 
-Outside of coding I'm into playing music, fashion, design, learning languages, recreational sports, lifting, skiing, hiking, climbing, and cooking.
+Outside of coding I'm into playing music, fashion, design, learning languages, recreational sports, lifting, skiing, hiking, climbing, and food.
 
 If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at `$myGithubUsername@gmail.com`.
 
