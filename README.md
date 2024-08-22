@@ -1,6 +1,6 @@
 ### What up, y'all.  I'm Dylan 👋
 
-I love working on building and scaling foundational systems and software products at early-stage tech companies.
+I love working on scaling foundational systems and software products at early-stage tech companies.
 
 I'm currently a full-stack product engineer at [PostHog](https://posthog.com/), where I'm working on building a suite of products to equip every developer in the world with the tools they need to build successful products themselves.
 
