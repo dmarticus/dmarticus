@@ -2,7 +2,8 @@
 
 I love building and scaling foundational systems and software products at early-stage tech companies.
 
-I'm currently I'm a full-stack product engineer at [PostHog](https://posthog.com/), where I lead development on our feature flags product ([learn more](https://posthog.com/docs/feature-flags))
+Currently:
+- I'm a [product engineer](https://posthog.com/blog/what-is-a-product-engineer) at [PostHog](https://posthog.com/), where I lead development on our feature flags product ([learn more](https://posthog.com/docs/feature-flags))
 
 So far in my career, I've been:
 * A founding/principal engineer at [BRINC](https://brincdrones.com/), where I founded the web app and cloud services engineering team and built the first version of [LiveOps](https://brincdrones.com/liveops/)
