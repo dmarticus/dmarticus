@@ -1,6 +1,6 @@
 ### What up, y'all.  I'm Dylan 👋
 
-I love building and scaling foundational systems and software products at early-stage tech companies.
+I love building and scaling foundational systems and software products at high-growth tech companies.
 
 Currently:
 - I'm a [product engineer](https://posthog.com/blog/what-is-a-product-engineer) at [PostHog](https://posthog.com/), where I'm the tech lead for our [feature flags product](https://posthog.com/teams/feature-flags)
