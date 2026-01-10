@@ -14,7 +14,7 @@ So far in my career, I've been:
 
 Outside of building stuff I'm into playing music, fashion, design, learning languages, recreational sports, lifting, skiing, hiking, climbing, good coffee, and good food.
 
-If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at `$myGithubUsername@gmail.com`.
+If you want to get in touch with me to talk about programming, work on open-source together, or even just say hi, I can be reached at `me@$MY_WEBSITE_DOMAIN`.
 
 Peace.
 
