@@ -3,9 +3,10 @@
 I love building and scaling foundational systems and software products at high-growth tech companies.
 
 Currently:
-- I'm a [product engineer](https://posthog.com/blog/what-is-a-product-engineer) at [PostHog](https://posthog.com/), where I'm the tech lead for our [feature flags product](https://posthog.com/teams/feature-flags)
+- I'm a [product engineer](https://posthog.com/blog/what-is-a-product-engineer) at [PostHog](https://posthog.com/), where I'm spinning up a cool new team working on <REDACTED>
 
 So far in my career, I've been:
+* The tech lead for PostHog's [feature flag product](https://posthog.com/teams/feature-flags)
 * A principal engineer at [BRINC](https://brincdrones.com/), where I founded the web app and cloud services engineering team and built the first version of [LiveOps](https://brincdrones.com/liveops/)
 * A founding engineer at [Cercle](https://www.cercle.ai/), where I built consumer apps on top of knowledge graphs for fertility data
 * An early employee and generalist engineer at [Mercury](https://mercury.com/), where I wore many hats and owned [international payments](https://demo.mercury.com/send-money/pay/start)
