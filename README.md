@@ -3,7 +3,7 @@
 I love building and scaling foundational systems and software products at high-growth tech companies.
 
 Currently:
-- I'm a AI [product engineer](https://posthog.com/blog/what-is-a-product-engineer) at [PostHog](https://posthog.com/), where I'm spinning up a cool new team working on [AI agent factories](https://posthog.com/teams/agents)
+- I'm a AI [product engineer](https://posthog.com/blog/what-is-a-product-engineer) at [PostHog](https://posthog.com/), where I'm working on a cool new team that's [automating knowledge work](https://posthog.com/teams/posthog-desktop)
 
 So far in my career, I've been:
 * The tech lead for PostHog's [feature flag product](https://posthog.com/teams/feature-flags), where I [rewrote the flag evaluation engine in Rust](https://posthog.com/blog/even-faster-more-reliable-flags) and 10x'd (almost to the literal dollar) our product ARR.
